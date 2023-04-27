@@ -1,0 +1,1 @@
+print("F\nE\nD\nC\nB\nA")
